@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I`m currently learning: C#; C++
+
+- 📫 How to reach me: hm0on.work@yandex.ru
+
 <!--
 **hm0on/hm0on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
